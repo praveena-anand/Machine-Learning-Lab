@@ -1,15 +1,15 @@
-Machine Learning Lab
+🧠 Machine Learning Lab
 
 This repository contains all the lab experiments completed as part of the Machine Learning Laboratory course for B.Tech Computer Science (Amrita Vishwa Vidyapeetham).
 Each experiment demonstrates a core concept of machine learning using Python and Jupyter Notebooks.
 
-Overview
+📘 Overview
 
 The lab focuses on implementing, analyzing, and understanding key machine learning algorithms and models.
 It covers both supervised and unsupervised learning techniques with practical datasets.
 
-Experiments Included
-Supervised Learning
+🧩 Experiments Included
+🔹 Supervised Learning
 
 Linear Regression
 
@@ -35,7 +35,7 @@ Random Data Classification
 
 Email Spam Detection
 
-Unsupervised Learning
+🔹 Unsupervised Learning
 
 K-Means Clustering
 
@@ -43,7 +43,7 @@ Faithful Geyser Dataset
 
 Image Compression
 
-General K-Means Implementation
+Generic K-Means Implementation
 
 K-Nearest Neighbours (KNN)
 
@@ -53,7 +53,7 @@ Handwritten Digits Dataset
 
 Euclidean Distance Comparison
 
-Dimensionality Reduction
+🔹 Dimensionality Reduction
 
 Principal Component Analysis (PCA)
 
@@ -61,7 +61,7 @@ Iris Dataset
 
 Real-world Dataset Analysis
 
-Technologies Used
+⚙️ Technologies Used
 
 Language: Python
 
@@ -77,10 +77,20 @@ Matplotlib / Seaborn
 
 Scikit-learn
 
-Author
+🎯 Learning Outcomes
+
+Understanding the intuition behind key ML algorithms
+
+Performing data preprocessing and visualization
+
+Evaluating model performance using metrics
+
+Applying dimensionality reduction for feature optimization
+
+Interpreting real-world datasets through ML models
+
+👩‍💻 Author
 
 Praveena Anand
 
-B.Tech Computer Science and Engineering
-
-Amrita Vishwa Vidyapeetham
+B.Tech CSE | Amrita Vishwa Vidyapeetham
